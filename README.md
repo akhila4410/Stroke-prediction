@@ -1,4 +1,4 @@
-# Stroke-prediction
+# Stroke Prediction
 
 According to the World Health Organization (WHO) stroke is the 2nd leading cause of death globally, responsible for approximately 11% of total deaths.
 
